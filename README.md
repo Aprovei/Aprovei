@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Breno Facundo, penetration tester" width="100%">
+<table width="100%">
+  <tr>
+    <td width="62%" valign="middle">
+      <img src="assets/hero.svg" alt="Breno Facundo, penetration tester" width="100%">
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" alt="Gengar" width="280">
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=800&color=C77DFF&background=0C0614&center=true&vCenter=true&width=960&height=58&lines=Breno+Facundo+%C2%B7+Penetration+Tester;Quebro+o+que+parece+fechado.;Web+%C2%B7+Network+%C2%B7+Recon+%C2%B7+Exploit;LV.22+%C2%B7+o+fantasma+do+escopo;N%C3%A3o+tema+a+sombra.+Eu+trabalho+nela." alt="Breno Facundo digitando"></a>
-
-<br>
-
-<img src="assets/divider.svg" alt="" width="100%">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=800&color=C77DFF&background=0C0614&center=true&vCenter=true&width=900&height=58&lines=Breno+Facundo+%C2%B7+Penetration+Tester;Quebro+o+que+parece+fechado.;Web+%C2%B7+Network+%C2%B7+Recon+%C2%B7+Exploit;LV.22+%C2%B7+o+fantasma+do+escopo;N%C3%A3o+tema+a+sombra.+Eu+trabalho+nela." alt="Breno Facundo digitando" width="100%"></a>
 
 <br>
 
@@ -31,9 +36,8 @@
   <img src="https://img.shields.io/badge/Wireshark-1A0B2E?style=for-the-badge&logo=wireshark&logoColor=C77DFF" alt="Wireshark">
   <img src="https://img.shields.io/badge/Metasploit-1A0B2E?style=for-the-badge&logo=metasploit&logoColor=E879F9" alt="Metasploit">
   <img src="https://img.shields.io/badge/Python-1A0B2E?style=for-the-badge&logo=python&logoColor=C77DFF" alt="Python">
-  <img src="https://img.shields.io/badge/Bash-1A0B2E?style=for-the-badge&logo=gnubash&logoColor=E879F9" alt="Bash">
-  <img src="https://img.shields.io/badge/Linux-1A0B2E?style=for-the-badge&logo=linux&logoColor=C77DFF" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-1A0B2E?style=for-the-badge&logo=git&logoColor=E879F9" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-1A0B2E?style=for-the-badge&logo=linux&logoColor=E879F9" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-1A0B2E?style=for-the-badge&logo=git&logoColor=C77DFF" alt="Git">
 </p>
 
 <br>
@@ -42,7 +46,7 @@
 
 <br>
 
-<a href="https://github.com/Aprovei"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Aprovei&bg_color=0C0614&color=C77DFF&line=E879F9&point=F8F7FF&area=true&area_color=7C3AED&hide_border=true" alt="Gráfico de atividade"></a>
+<a href="https://github.com/Aprovei"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Aprovei&bg_color=0C0614&color=C77DFF&line=E879F9&point=F8F7FF&area=true&area_color=7C3AED&hide_border=true" alt="Gráfico de atividade" width="100%"></a>
 
 <br>
 
