@@ -3,7 +3,7 @@
 <table width="100%">
   <tr>
     <td width="62%" valign="middle">
-      <img src="assets/hero.svg" alt="Breno Facundo, penetration tester" width="100%">
+      <img src="assets/hero.svg?v=3" alt="Breno Facundo, penetration tester" width="100%">
     </td>
     <td width="38%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" alt="Gengar" width="280">
@@ -17,15 +17,15 @@
 
 <br>
 
-<img src="assets/whoami.svg" alt="whoami de Breno Facundo" width="100%">
+<img src="assets/whoami.svg?v=3" alt="whoami de Breno Facundo" width="100%">
 
 <br>
 
-<img src="assets/focus.svg" alt="Foco: recon, web, rede e prova" width="100%">
+<img src="assets/focus.svg?v=3" alt="Foco: recon, web, rede e prova" width="100%">
 
 <br>
 
-<img src="assets/arsenal.svg" alt="Arsenal de pentest" width="100%">
+<img src="assets/arsenal.svg?v=3" alt="Arsenal de pentest" width="100%">
 
 <br>
 
@@ -50,6 +50,6 @@
 
 <br>
 
-<img src="assets/footer.svg" alt="Facundo" width="100%">
+<img src="assets/footer.svg?v=3" alt="Facundo" width="100%">
 
 </div>
