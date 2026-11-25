@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="236" viewBox="0 0 960 236" role="img">
+  <title>Foco</title>
+  <style>
+    .card { animation: rise 0.55s ease both; }
+    .c1 { animation-delay: 0.05s; }
+    .c2 { animation-delay: 0.16s; }
+    .c3 { animation-delay: 0.27s; }
+    .c4 { animation-delay: 0.38s; }
+    .sweep { transform-box: fill-box; transform-origin: center; animation: spin 3.4s linear infinite; }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(14px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .card, .sweep { animation: none; }
+    }
+  </style>
+  <rect width="960" height="236" rx="22" fill="#0C0614" stroke="#6D28D9" stroke-width="1.5"/>
+  <text x="36" y="40" fill="#F8F7FF" font-family="Consolas, Courier New, monospace" font-size="22">&gt; foco</text>
+  <text x="128" y="40" fill="#A78BFA" font-family="Segoe UI, Arial, sans-serif" font-size="14">onde o tempo vai dentro do escopo</text>
+  <g class="card c1">
+    <rect x="28" y="62" width="216" height="150" rx="16" fill="#140A22" stroke="#3B0764"/>
+    <rect x="40" y="78" width="4" height="118" rx="2" fill="#E879F9"/>
+    <circle cx="72" cy="100" r="16" fill="#2A1248"/>
+    <g transform="translate(72,100)" stroke="#E879F9" fill="none" stroke-width="1.6">
+      <circle r="11"/>
+      <circle r="5.5"/>
+      <g class="sweep">
+        <line x1="0" y1="0" x2="8" y2="-7"/>
+      </g>
+    </g>
+    <circle cx="72" cy="100" r="1.8" fill="#E879F9"/>
+    <text x="96" y="106" fill="#F8F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Recon</text>
+    <text x="48" y="146" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="14">Superfície e ativo.</text>
+    <text x="48" y="168" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="14">O que vaza sem pedir.</text>
+  </g>
+  <g class="card c2">
+    <rect x="258" y="62" width="216" height="150" rx="16" fill="#140A22" stroke="#3B0764"/>
+    <rect x="270" y="78" width="4" height="118" rx="2" fill="#C084FC"/>
+    <circle cx="302" cy="100" r="16" fill="#2A1248"/>
+    <text x="289" y="105" fill="#E879F9" font-family="Consolas, Courier New, monospace" font-size="13" font-weight="700">&lt;/&gt;</text>
+    <text x="326" y="106" fill="#F8F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Web</text>
+    <text x="278" y="146" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="14">Auth, lógica, input.</text>
+    <text x="278" y="168" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="14">Onde vira acesso.</text>
+  </g>
+  <g class="card c3">
+    <rect x="488" y="62" width="216" height="150" rx="16" fill="#140A22" stroke="#3B0764"/>
+    <rect x="500" y="78" width="4" height="118" rx="2" fill="#A78BFA"/>
+    <circle cx="532" cy="100" r="16" fill="#2A1248"/>
+    <circle cx="525" cy="96" r="2.6" fill="#E879F9"/>
+    <circle cx="541" cy="104" r="2.6" fill="#F0ABFC"/>
+    <circle cx="530" cy="110" r="2.2" fill="#C4B5FD"/>
+    <path d="M527 98 L539 102 L531 108" fill="none" stroke="#E879F9" stroke-width="1.3"/>
+    <text x="556" y="106" fill="#F8F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Rede</text>
+    <text x="508" y="146" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="14">Serviço e credencial.</text>
+    <text x="508" y="168" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="14">O caminho lateral.</text>
+  </g>
+  <g class="card c4">
+    <rect x="718" y="62" width="216" height="150" rx="16" fill="#140A22" stroke="#3B0764"/>
+    <rect x="730" y="78" width="4" height="118" rx="2" fill="#FF4D8D"/>
+    <circle cx="762" cy="100" r="16" fill="#2A1248"/>
+    <rect x="754" y="91" width="15" height="18" rx="2" fill="none" stroke="#E879F9" stroke-width="1.6"/>
+    <path d="M758 100 L761 104 L768 95" fill="none" stroke="#F0ABFC" stroke-width="1.6" stroke-linecap="round"/>
+    <text x="786" y="106" fill="#F8F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Prova</text>
+    <text x="738" y="146" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="14">Do achado ao relatório.</text>
+    <text x="738" y="168" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="14">Sem teatro.</text>
+  </g>
+</svg>
