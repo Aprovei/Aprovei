@@ -43,6 +43,5 @@
 
 <br>
 
-<img src="assets/footer-card.svg" alt="Facundo" width="100%">
 
 </div>
