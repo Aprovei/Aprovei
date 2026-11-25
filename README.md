@@ -39,7 +39,6 @@
 <br>
 
 <a href="https://github.com/Aprovei"><img src="https://github-readme-stats.vercel.app/api?username=Aprovei&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&title_color=C77DFF&text_color=EDE4FF&icon_color=E879F9&bg_color=0C0614" alt="Estatísticas do GitHub de Aprovei"></a>
-<a href="https://github.com/Aprovei"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aprovei&layout=compact&hide_border=true&title_color=C77DFF&text_color=EDE4FF&bg_color=0C0614" alt="Linguagens mais usadas"></a>
 
 <br>
 
