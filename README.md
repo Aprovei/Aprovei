@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/hero-card.svg" alt="Breno Facundo, penetration tester" width="100%">
-
 <br>
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" alt="Gengar" width="260">
