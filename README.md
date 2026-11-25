@@ -1,15 +1,10 @@
 <div align="center">
 
-<table width="100%">
-  <tr>
-    <td width="62%" valign="middle">
-      <img src="assets/hero-card.svg" alt="Breno Facundo, penetration tester" width="100%">
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" alt="Gengar" width="280">
-    </td>
-  </tr>
-</table>
+<img src="assets/hero-card.svg" alt="Breno Facundo, penetration tester" width="100%">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" alt="Gengar" width="260">
 
 <br>
 
